@@ -2,7 +2,7 @@
 title: "Schema"
 linkTitle: "Schema"
 weight: 40
-date: 2021-01-18
+date: 2022-04-13
 description: >
   API Schema definitions for Jenkins CRD
 ---
