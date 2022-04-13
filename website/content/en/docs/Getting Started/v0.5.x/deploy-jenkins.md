@@ -2,7 +2,7 @@
 title: "Deploy Jenkins"
 linkTitle: "Deploy Jenkins"
 weight: 1
-date: 2021-01-25
+date: 2022-04-13
 description: >
   Deploy production ready Jenkins Operator manifest
 ---

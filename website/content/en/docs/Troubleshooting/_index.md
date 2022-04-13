@@ -2,7 +2,7 @@
 title: "Troubleshooting"
 linkTitle: "Troubleshooting"
 weight: 4
-date: 2021-10-06
+date: 2022-04-13
 description: >
     Troubleshooting Jenkins Operator
 ---
